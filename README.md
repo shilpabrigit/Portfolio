@@ -13,7 +13,7 @@ Skills: SQL, Python, Tableau, Microsoft Excel, Microsoft Power BI
 <p align="justify"> * Facilitated software UI enhancements for streamlined warehouse management, fostering efficient operations </p>
 <p align="justify"> * Employed K-Means clustering on RFM values to categorize customers into 6 distinct clusters, utilizing Python and OpenRefine to implement targeted promotional strategies, resulting in a noticeable improvement in customer retention </p>
 <p align="justify"> * Navigated post-COVID purchase cost challenges, prioritizing adjustments based on supplier KPIs. Identified and communicated changes for suppliers with KPI scores below 40% </p>
-<p align="justify"> * [View Project Highlights](https://youtu.be/QFrB3eogOCk?t=1262) </p>
+* [View Project Highlights](https://youtu.be/QFrB3eogOCk?t=1262) 
 
 ### [Machine Learning: Taxi Fare Prediction](https://github.com/shilpabrigit/Machine-Learning-Kaggle-/blob/main/Final_Taxi_fare_prediction.ipynb)
 <p align="justify"> * Implemented multiple scikit-learn ML algorithms in Python for taxi fare prediction, compared and analyzed the results </p>
@@ -26,7 +26,7 @@ Skills: SQL, Python, Tableau, Microsoft Excel, Microsoft Power BI
 <p align="justify"> * Highlighted a 35% higher average monthly income for non-attrited employees, influenced by higher experience </p>
 <p align="justify"> * Pointed out a concerning 25% rating work environment satisfaction as 1 across departments using SQL joins </p>
 <p align="justify"> * Noted a concentration of attritions within the 27-35 age group, this can help tailor retention strategies </p>
-<p align="justify"> * [View Project Highlights](https://www.youtube.com/watch?v=Sm7rFQZGQVA) </p>
+* [View Project Highlights](https://www.youtube.com/watch?v=Sm7rFQZGQVA)
 
 ### [Sales and Revenue Analysis](https://public.tableau.com/app/profile/shilpa.paul/viz/SalesAnalysis_17071183217180/Dashboard1)
 <p align="justify"> * Developed a comprehensive revenue analysis dashboard using Tableau, revealing trends over the years </p>
