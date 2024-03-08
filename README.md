@@ -14,5 +14,9 @@ Skills: SQL, Python, Tableau, Microsoft Excel, Microsoft Power BI
 * Navigated post-COVID purchase cost challenges, prioritizing adjustments based on supplier KPIs. Identified and communicated changes for suppliers with KPI scores below 40%
 * [View Project Highlights](https://youtu.be/QFrB3eogOCk?t=1262)
 
-### Machine Learning: Taxi Fare Prediction
-* 
+### [Machine Learning: Taxi Fare Prediction](https://github.com/shilpabrigit/Machine-Learning-Kaggle-/blob/main/Final_Taxi_fare_prediction.ipynb)
+* Implemented multiple scikit-learn ML algorithms in Python for taxi fare prediction, compared and analyzed the results
+* Conducted Exploratory Data Analysis (EDA) using Matplotlib and Seaborn, generating insightful visualizations
+* Optimized XGBoost algorithm hyperparameters, achieving an impressive R2 score of 0.95 for enhanced predictive power
+* Engineered additional features, including derived time-related features and interaction terms, to capture nuanced patterns in taxi fare prediction
+
